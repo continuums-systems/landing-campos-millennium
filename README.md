@@ -120,17 +120,6 @@ para manutenção, ao custo de depender da pasta estar sempre junto do HTML.
 
 ---
 
-## Roadmap / próximos passos
-
-- [ ] Substituir fotos de stock por fotos reais da equipe e do escritório
-- [ ] Adicionar depoimentos / prova social verificável
-- [ ] Formulário de contato com captura real de lead (hoje abre o WhatsApp)
-- [ ] Favicon e Open Graph image para compartilhamento em redes sociais
-
----
-
-<div align="center">
-
 Desenvolvido por **[Continuums Systems](https://github.com/continuums-systems)**
 
 </div>
